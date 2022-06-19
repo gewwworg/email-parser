@@ -5,7 +5,7 @@
 
 ![image](https://sun9-60.userapi.com/impg/GPFivxrnQ-Dchs7yy6hJ5wAJJn1OuTlj3Pq7_A/4Tl6-eFqi_I.jpg?size=2560x864&quality=96&sign=aa3a2d5c067ca565bb45ea5b0e311b9e&type=album)
 
-*Далее, нужно в файле accounts.py добавить все свои аккаунты по форме. *
+*Далее, нужно в файле accounts.py добавить все свои аккаунты по форме*
 
 *В файле dsHook.py добавить ссылку на свой хук*
 
